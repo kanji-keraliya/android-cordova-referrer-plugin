@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-referrer",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-referrer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "cordova plugin to get application install referral"
+}
